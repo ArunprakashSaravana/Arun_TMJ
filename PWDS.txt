@@ -1,0 +1,24 @@
+PWDS:
+----------------------------
+    
+
+Client_auth:
+	name:arun_infra
+	pwd:welarun
+
+vcloud:
+    https://vcloud.thangamayil.in/websso/SAML2/SSO/vcloud.thangamayil.in
+	uname:administrator@vcloud.thangamayil.in
+	pwd:Vmware@2020$
+
+Sophos:
+	https://10.121.1.5:4443/webconsole/webpages/login.jsp#82965
+	uname:admin
+	pwd:India@2022
+
+HRMS:
+	http://hrms.thangamayil.in/Spinehrms/login.asp
+	user-id:08317
+	pwd:arunsk@97
+
+---------------------------------------------------------
