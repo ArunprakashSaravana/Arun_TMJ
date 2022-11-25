@@ -1,0 +1,86 @@
+servers:
+	10.120.0.243---->GPP server
+		uname:administrator
+		pwd:Dell$2020@
+
+	10.120.0.200:--->Live sql
+		uname:administrator
+		pwd:Dell$2020@
+
+	10.120.0.211:--->Salary and attenence db
+		uname:administrator
+		pwd:admin@123
+
+	10.120.0.250:--->SymDB server
+		uname:administrator
+		pwd:admin@123
+
+	10.120.0.23:---> Backup server
+		uname:administrator
+		pwd:Veeam@2020$
+
+	10.120.0.78:---> Psql db storing server
+		uname:root
+		pwd:Cent@2021$
+
+	10.120.0.77:--->Psql Live Db
+		uname:root
+		pwd:Root@2022$
+	DB connect:
+		uname:postgres
+		pwd:pg@123
+
+	10.120.0.247:---> Data center root server
+		uname:user
+		pwd:User@1234$
+
+	10.120.0.58:---> Arun monitor server
+		uname:root
+		pwd:Root@2022$
+
+	10.120.0.56: Sadham test server---> 
+		uname:root
+		pwd:Root@2022
+----------------------------------------------------------
+Branch:
+	Firewall:
+		uname:admin
+		pwd:Secure@2022$
+		    Sony@2021$
+
+	VPN connection:
+		uname:tmjl
+		pwd:Tmjl@123
+
+	file.thangamayil.in
+		uname:sysadmin
+		pwd:sysadmi@123
+	Jio Business compliant:
+		uname:prasannanb_4
+		pwd:Thala@1978
+-----------------------------------------
+   Firewall upgrade:
+	login:
+		uname:datacenter@thangamayil.com
+		pwd:Vmware@123
+	Local branch system 
+		login :uname:root	
+			 pwd:Sys@dmin
+	VPN:
+		uname:tmj_vpn
+		pwd:tnjl
+
+   WAN ips:
+	TATA=14.99.9.214
+	Jio=136.232.208.74
+
+   Sophos default ip:172.16.16.16
+
+
+admin
+Secure@2022$
+Sony@2021$
+
+117.98.190.171
+
+59.90.87.179
