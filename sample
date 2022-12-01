@@ -13,3 +13,4 @@ git commit -a -m "Add line to the file"
 echo "Second file" > file2.txt
 git add .
 git commit -m "Create second file"
+Thank you
